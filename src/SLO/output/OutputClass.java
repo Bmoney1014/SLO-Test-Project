@@ -1,6 +1,5 @@
-package SLOview;
+package SLO.output;
 
-import javax.swing.JOptionPane;
 
 public class OutputClass 
 {

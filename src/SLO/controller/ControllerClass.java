@@ -1,5 +1,7 @@
-package SLOcontroller;
+package SLO.controller;
 
+import java.util.Scanner;
+import SLO.output.OutputClass;
 
 public class ControllerClass 
 {
